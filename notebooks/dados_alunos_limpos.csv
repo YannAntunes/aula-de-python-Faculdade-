@@ -1,0 +1,41 @@
+﻿id_aluno,nome,idade,curso,nota,cidade
+101,Ana Souza,20,ADS,8.5,Brasília
+102,Carlos Lima,22,ADS,7.0,Goiânia
+103,Beatriz Alves,21,Redes,9.2,Brasília
+104,Diego Rocha,23,ADS,6.8,Anápolis
+105,Ana Souza,20,ADS,9.0,Brasília
+106,Fernanda Costa,24,Banco de Dados,8.0,Brasília
+107,Gabriel Martins,20,ADS,7.5,Taguatinga
+108,Mariana Silva,22,Redes,8.7,Brasília
+109,Pedro Santos,21,ADS,6.5,Gama
+110,Lucas Ferreira,23,Banco de Dados,7.8,Brasília
+111,Juliana Mendes,20,ADS,9.1,Goiânia
+112,Rafael Oliveira,24,Redes,7.2,Brasília
+113,Camila Ribeiro,22,ADS,8.3,Anápolis
+114,Bruno Carvalho,21,Banco de Dados,6.9,Brasília
+115,Larissa Gomes,23,Redes,8.8,Gama
+116,Tiago Nunes,20,ADS,7.1,Brasília
+117,Isabela Freitas,22,Banco de Dados,9.4,Taguatinga
+118,André Pires,24,ADS,7.6,Brasília
+119,Sofia Barros,21,Redes,8.1,Goiânia
+120,Daniel Azevedo,23,ADS,6.7,Brasília
+121,Patrícia Melo,20,Banco de Dados,8.9,Anápolis
+122,Eduardo Reis,22,Redes,7.4,Brasília
+123,Letícia Cardoso,21,ADS,9.0,Gama
+124,Vinícius Duarte,24,Banco de Dados,7.9,Brasília
+125,Helena Castro,23,Redes,8.6,Taguatinga
+126,Mateus Correia,20,ADS,7.3,Brasília
+127,Laura Farias,22,Banco de Dados,9.3,Goiânia
+128,Gustavo Peixoto,21,Redes,6.6,Brasília
+129,Nicolas Batista,23,ADS,8.2,Anápolis
+130,Bianca Tavares,24,Banco de Dados,7.7,Brasília
+131,Vitor Hugo,20,Redes,8.4,Gama
+132,Melissa Duarte,22,ADS,7.9,Brasília
+133,Enzo Almeida,21,Banco de Dados,6.4,Taguatinga
+134,Lívia Moraes,23,Redes,9.5,Brasília
+135,Samuel Dias,24,ADS,7.0,Goiânia
+136,Alice Monteiro,20,Banco de Dados,8.1,Brasília
+137,Murilo Campos,22,Redes,7.8,Anápolis
+138,Rebeca Xavier,21,ADS,8.7,Brasília
+139,Otávio Cunha,23,Banco de Dados,7.6,Gama
+140,Manuela Prado,24,Redes,8.9,Brasília
